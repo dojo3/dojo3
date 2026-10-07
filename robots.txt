@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soundhealingcolorado.com/sitemap.xml
